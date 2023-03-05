@@ -1,4 +1,4 @@
-Bankist - a bank app in which you can transfer money to another account, request a loan, close the account. You can check total incomes, total outcomes, interest rate,
+Bankist - a bank app in which you can transfer money to another account, request a loan, close the account. Check total incomes, total outcomes, interest rate,
 sort the movements and has a timer, which logs you out in 2 min.
 
 Username: js  Password: 1111
