@@ -5,8 +5,10 @@ Username: js  Password: 1111
 
 Username: jd  Password: 2222
 
-A project from The complete JavaScript course, Jonas Schmedtmann.
 
 ![Bankist-app0](https://user-images.githubusercontent.com/125043957/222954830-a81f4b2d-ab3a-4ffc-a1e7-61f8e8cee875.png)
 
 ![Bankist-app1](https://user-images.githubusercontent.com/125043957/222954835-385edd8e-16ec-4761-a0b1-55200aeb054b.png)
+
+
+A project from The complete JavaScript course, Jonas Schmedtmann.
